@@ -62,4 +62,4 @@ To get started with Mindshare, follow these steps:
 
 Mindshare is more than just a forum; it's a trusted community where users can discuss their mental health concerns with the assurance that they are receiving advice from verified professionals. Join us today and be a part of a supportive and knowledgeable community.
 
----
+================
