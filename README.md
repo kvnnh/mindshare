@@ -38,7 +38,7 @@ Follow these steps to set up and start using Mindshare:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/vnnico/mindshare.git
+   git clone https://github.com/kvnnh/mindshare.git
 2. **Navigate to the Project Directory**
    ```bash
    cd mindshare
